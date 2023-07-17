@@ -9,7 +9,7 @@ Apesar de meu foco ser backend, também sou interessado no frontend (Full Stack)
 
 Minha linguagem de maior performance é o NodeJs (Javascript) mas ja entrei em contato com outras stacks, como mostrado no gráfico interativo abaixo. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-sa)
+![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-sa)
 
 Sou curioso, amo aprender, contribuir e criar: será um prazer fazer parte do seu projeto e/ou produto!
 
@@ -34,15 +34,32 @@ Veja-me como uma ampla caixa de ferramentas: consigo conectar e entender diverso
 
 <div id="node">
 
-## Projetos em NodeJs
+## NodeJs e APIs
 
 Seguem os links dos projetos:
- 
+
+[![Fullstack1](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=NSolucoes)](https://github.com/gui-sa/NSolucoes)
+
+[![Fullstack2](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=NDM)](https://github.com/gui-sa/NDM)
+
+[![Fullstack3](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=SITECATALOGO)](https://github.com/gui-sa/SITECATALOGO)
+
+[![API1](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=tuntsROCKS)](https://github.com/gui-sa/tuntsROCKS)
+
+
 <div id="front">
 
 ## React e frontend
 
 Seguem os links dos projetos:
+
+[![Docker1](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=Cardapio-Lvl1)](https://github.com/gui-sa/Cardapio-Lvl1)
+
+[![Fullstack1](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=NSolucoes)](https://github.com/gui-sa/NSolucoes)
+
+[![Fullstack2](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=NDM)](https://github.com/gui-sa/NDM)
+
+[![React1](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=Bioma_Investimentos)](https://github.com/gui-sa/Bioma_Investimentos)
 
 <div id="python">
 
@@ -50,18 +67,52 @@ Seguem os links dos projetos:
 
 Seguem os links dos projetos:
 
+[![Python1](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=TargetSistemas)](https://github.com/gui-sa/TargetSistemas)
+
+[![IA1](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=Desenvovendo_AI)](https://github.com/gui-sa/Desenvovendo_AI)
+
 <div id="mecatronico">
 
 ## Mecatronicos
 
 Seguem os links dos projetos:
 
+[![Esp32_1](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=AI_com_esp32_wifi)](https://github.com/gui-sa/AI_com_esp32_wifi)
+
+[![Controle1](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=Controle_Linear)](https://github.com/gui-sa/Controle_Linear)
 
 <div id="outros">
 
 ## Outros
 
-Seguem os links dos projetos:
+Topicos que começaram a ser explorados, ensino, suporte.
+
+### Links de ensino e suporte:
+
+[![Backend](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=backend)](https://github.com/gui-sa/Backend)
+
+[![DIO](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=DIO_Training)](https://github.com/gui-sa/DIO_Training)
+
+[![SEII](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=SEII-GuilhermeSalomaoAgostinii)](https://github.com/gui-sa/SEII-GuilhermeSalomaoAgostinii)
+
+[![Gradle](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=GradleCourse)](https://github.com/gui-sa/GradleCourse)
+
+[![SO1](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=Sistemas-Operacionais-UFU)](https://github.com/gui-sa/Sistemas-Operacionais-UFU)
+
+[![Banco de Dados](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=Banco_de_Dados)](https://github.com/gui-sa/Banco_de_Dados)
+
+### Projetos em Spring, Java e Kotlin:
+
+[![Spring1](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=credit-application-system)](https://github.com/gui-sa/credit-application-system)
+
+[![Spring2](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=B2B2C_Spring_DIO)](https://github.com/gui-sa/B2B2C_Spring_DIO)
+
+[![Spring3](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=CreditSC_SpringBoot)](https://github.com/gui-sa/CreditSC_SpringBoot)
+
+[![Java1](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=Bootcamp_Java)](https://github.com/gui-sa/Bootcamp_Java)
+
+[![Kotlin1](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=aprenda-kotlin-com-exemplos-lab)](https://github.com/gui-sa/aprenda-kotlin-com-exemplos-lab)
+
 
 <div id="sobre">
 
@@ -71,25 +122,7 @@ Comecei minha carreira em tecnologia com 16 anos quando fiz um tecnico em Mecani
 
 Escolhi a engenharia Mecatrônica e por isso tenho dominio amplo e diverso: comecei com programação com maior proximidade ao hardware (e ainda sou apaixonado pelas demais áreas do conhecimento) e ao longo do tempo me apaixonei pelo desenvolvimento WEB (meu xodó atual) e de jogos (tema para me aventurar no futuro).
 
+Nas horas vagas faço atividade fisica, cozinho, vejo anime, leio lightnovels, mexo nos bonsais, jogo, penso em negócios e viajo em astrofisica e astronomia.
+
 Enfim, aqui, verá muito código Web e eventuais produtos e projetos em robótica. 😊
 
-
-
-
-
-
-
-<!--
-**gui-sa/gui-sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
