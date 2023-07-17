@@ -1,4 +1,5 @@
 # Guilherme Salomão Agostini 👋
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agostini-guilherme/)
 
 Olá, bem vindo ao meu display pessoal de projetos.
  
@@ -31,29 +32,38 @@ Veja-me como uma ampla caixa de ferramentas: consigo conectar e entender diverso
  - [Outros](#outros)
  - [Mais sobre mim](#sobre)
 
-<div id="#node">
+<div id="node">
 
 ## Projetos em NodeJs
 
-
-<div id="#front">
+Seguem os links dos projetos:
+ 
+<div id="front">
 
 ## React e frontend
 
+Seguem os links dos projetos:
 
-<div id="#python">
+<div id="python">
 
 ## Python e dados
 
-<div id="#mecatronico">
+Seguem os links dos projetos:
+
+<div id="mecatronico">
 
 ## Mecatronicos
 
-<div id="#outros">
+Seguem os links dos projetos:
+
+
+<div id="outros">
 
 ## Outros
 
-<div id="#sobre">
+Seguem os links dos projetos:
+
+<div id="sobre">
 
 ## Sobre
 
