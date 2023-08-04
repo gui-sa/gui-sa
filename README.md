@@ -22,7 +22,8 @@ Veja-me como uma ampla caixa de ferramentas: consigo conectar e entender diverso
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white
+)
 ## Projetos em:
  - [NodeJS e Javascript](#node)
  - [React e frontend](#front)
@@ -37,6 +38,8 @@ Veja-me como uma ampla caixa de ferramentas: consigo conectar e entender diverso
 ## NodeJs e APIs
 
 Seguem os links dos projetos:
+
+[![API1](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=TODO-list-App)](https://github.com/gui-sa/TODO-list-App)
 
 [![Fullstack1](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=NSolucoes)](https://github.com/gui-sa/NSolucoes)
 
