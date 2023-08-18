@@ -56,6 +56,8 @@ Seguem os links dos projetos:
 
 Seguem os links dos projetos:
 
+[![StaticPage](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=mandarin_trends)](https://github.com/gui-sa/mandarin_trends)
+
 [![Docker1](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=Cardapio-Lvl1)](https://github.com/gui-sa/Cardapio-Lvl1)
 
 [![Fullstack1](https://github-readme-stats.vercel.app/api/pin/?username=gui-sa&repo=NSolucoes)](https://github.com/gui-sa/NSolucoes)
